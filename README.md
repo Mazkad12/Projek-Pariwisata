@@ -1,8 +1,10 @@
+# Aplikasi Agen Pariwisata
+Tugas Besar Algoritma Pemograman
 Dibuat oleh
 - Muhammad Arief Ridwansyah
 - Muhammad Azka Darmawan
 
-Spesifikasi :
+# Spesifikasi :
 - Admin bisa menambahkan, mengubah, dan menghapus data tempat pariwisata pada 
   aplikasi. Data tersebut lengkap dengan failitas dan wahana yang tersedia pada tempat 
   pariwisata tersebut.
